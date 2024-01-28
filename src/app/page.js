@@ -9,6 +9,7 @@ export default function Home() {
           PULLUP GALLERY IS LIVE
         </p>
         <p>Ya heard bud</p>
+        <p>Thrid times the charme</p>
         <div>
           <a
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
